@@ -9,6 +9,10 @@ Hi, I am Peperehobbits01! A small developer that likes to learn more, and that t
 ## The ones I know :
 <p align="left"><a target="_blank" href=""><img height="30" src="./Assets/javascript-logo.png"></a><img height="30" src="./Assets/Node.js-Logo.png"></a><img height="30" src="./Assets/visual-studio-code-logo.png"></a><img height="30" src="./Assets/mysql-logo.png"></a><img height="30" src="./Assets/debian-logo.png"></a></p>
 
-## The ones I want to learn/I am learning :
+## The ones I am learning :
 
-<p align="left"><a target="_blank" href=""><img height="30" src="./Assets/typescript-logo.png"></a><img height="30" src="./Assets/intellij-idea-logo.png"></a><img height="30" src="./Assets/Lua-Logo.png"></a><img height="30" src="./Assets/java-logo.png"></a><img height="30" src="./Assets/c-programming-language-logo.png"></a><img height="30" src="./Assets/C++-logo.png"></a></p>
+<p align="left"><a target="_blank" href=""><img height="30" src="./Assets/typescript-logo.png"></a><img height="30" src="./Assets/intellij-idea-logo.png"></a><img height="30" src="./Assets/java-logo.png"></a></p>
+
+## The ones I want to learn :
+
+<p align="left"><a target="_blank" href=""><img height="30" src="./Assets/Lua-Logo.png"></a><img height="30" src="./Assets/c-programming-language-logo.png"></a><img height="30" src="./Assets/C++-logo.png"></a><img height="30" src="./Assets/Go_dark.svg"></a><img height="30" src="./Assets/dart-svgrepo-com.svg"></a><img height="30" src="./Assets/rust-svgrepo-com.svg"></a></p>
