@@ -11,7 +11,7 @@ Hi, I am Peperehobbits01! A small developer that likes to learn more, and that t
 
 ## The ones I am learning :
 
-<p align="left"><a target="_blank" href=""><img height="30" src="./Assets/typescript-logo.png"></a><img height="30" src="./Assets/intellij-idea-logo.png"></a><img height="30" src="./Assets/java-logo.png"></a></p>
+<p align="left"><a target="_blank" href=""><img height="30" src="./Assets/typescript-logo.png"></a><img height="30" src="./Assets/intellij-idea-logo.png"></a><img height="30" src="./Assets/java-logo.png"></a><img height="30" src="./Assets/webstorm-svgrepo-com.svg"></a></p>
 
 ## The ones I want to learn :
 
